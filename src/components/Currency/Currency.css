@@ -1,0 +1,26 @@
+.currency {
+    display: flex;
+
+}
+
+.currencyInfo:nth-child(n+2) {
+    margin-left: 10px;
+}
+
+.linkCurrency {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.spanCurrency {
+    margin-left: 10px;
+    color: #000;
+    font-weight: bold;
+}
+
+
+.spanCurrencyDelta {
+    margin-left: 10px;
+    color: gray;
+}

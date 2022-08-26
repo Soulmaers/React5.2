@@ -1,0 +1,30 @@
+.search {
+    width: 700px;
+    display: flex;
+}
+
+
+
+
+.input {
+    width: 80%;
+}
+
+.btn {
+    background-color: yellow;
+    font-weight: bold;
+    width: 20%;
+}
+
+.down {
+    margin-right: 18%;
+    display: flex;
+    justify-content: left;
+}
+
+
+.spanHolder {
+    margin-left: 5px;
+    color: gray;
+
+}

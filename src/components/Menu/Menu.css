@@ -1,0 +1,17 @@
+.menuList {
+    display: flex;
+
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.menuItem:nth-child(n+2) {
+    margin-left: 10px;
+}
+
+.linkMenu {
+    text-decoration: none;
+    color: rgb(54, 131, 231);
+    font-weight: bold;
+}

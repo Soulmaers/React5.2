@@ -1,0 +1,15 @@
+.news {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.itemNews {
+    list-style-type: none;
+}
+
+.linkNews {
+    text-decoration: none;
+    color: gray;
+    line-height: 2rem;
+}
