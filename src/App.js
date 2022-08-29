@@ -5,6 +5,9 @@ import News from './components/News/News'
 import Currency from './components/Currency/Currency'
 import Menu from './components/Menu/Menu'
 import Search from './components/Search/Search'
+import Banner from './components/Banner'
+import Widgets from './components/Widgets'
+import { banner } from './components/Content';
 
 function App() {
   return (
@@ -14,6 +17,8 @@ function App() {
       <Currency />
       <Menu />
       <Search />
+      <Banner img={banner.img} link={banner.link} />
+      <Widgets />
     </div>
   );
 }
