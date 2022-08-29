@@ -1,7 +1,7 @@
 import { newsTitle } from '../Content'
 import './NewsTitle.css'
 
-
+/* новости основные*/
 
 export default function NewsTitle() {
 

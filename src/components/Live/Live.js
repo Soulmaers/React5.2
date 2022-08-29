@@ -1,6 +1,6 @@
 import './Live.css'
 
-
+/*блок эфир*/
 
 export default function Live({ live }) {
 
@@ -15,6 +15,3 @@ export default function Live({ live }) {
     ));
 }
 
-Live.defaultProps = {
-    live: [],
-};

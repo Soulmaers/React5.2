@@ -1,6 +1,8 @@
 import './Search.css'
 
 
+/* поиск*/
+
 export default function Search() {
 
 

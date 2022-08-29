@@ -7,6 +7,8 @@ import { weather, visit, tvProgram, live } from "./Content";
 import '../App.css'
 
 
+/* компонент всех виджетов*/
+
 export default function Widgets() {
     return (
         <section className="widgets">

@@ -5,7 +5,7 @@ import './Visit.css'
 export default function Visit({ visit }) {
 
 
-
+    /* блок посещений*/
     return visit.map((item) => (
         <div className="popular" key={item.title}>
             <a href={item.link} className="popular_link">
@@ -17,6 +17,3 @@ export default function Visit({ visit }) {
 }
 
 
-Visit.defaultProps = {
-    visit: [],
-};

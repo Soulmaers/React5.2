@@ -5,7 +5,7 @@ import './TVProgram.css'
 export default function TVProgram({ tvProgram }) {
 
 
-
+    /* блок программ*/
 
 
     return tvProgram.map((item) => (
@@ -20,6 +20,3 @@ export default function TVProgram({ tvProgram }) {
 
 
 }
-TVProgram.defaultProps = {
-    tvProgram: [],
-};

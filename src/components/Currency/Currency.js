@@ -1,7 +1,7 @@
 import { currency } from '../Content'
 import './Currency.css'
 
-
+/*курсы валют*/
 
 
 export default function Currency() {

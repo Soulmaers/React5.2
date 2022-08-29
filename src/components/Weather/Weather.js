@@ -2,6 +2,8 @@
 import "./Weather.css";
 
 
+/*блок погода */
+
 export default function Weather({ weather }) {
 
 

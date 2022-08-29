@@ -1,7 +1,7 @@
 import './Menu.css'
 import { menu } from '../Content'
 
-
+/* меню */
 export default function Menu() {
 
 

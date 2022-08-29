@@ -1,6 +1,7 @@
 import './News.css'
 import { news } from '../Content'
 
+/* новости список*/
 
 export default function News() {
 
